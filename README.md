@@ -1,25 +1,14 @@
 # AgroMapVue
+Como rodar o projeto?
 
-## Project Setup
+## Instale as dependências
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Inicie seu localhost via npm
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
